@@ -8,12 +8,6 @@ The dashboard provides an easy way to explore GHI data across different time ran
 
 ---
 
-## 🌐 Live Demo
-
-**Website:** Add your deployed project link here
-
----
-
 ## 🛠️ Tech Stack
 
 - React.js
